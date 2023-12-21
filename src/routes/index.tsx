@@ -2,7 +2,7 @@ import {
   createBrowserRouter,
 } from "react-router-dom";
 import HomeLayout from "../layouts/home";
-import Games from "../views/games";
+import Games from "../views/home";
 import TicTacToe from "../views/tic-tac-toe";
 
 const router = createBrowserRouter([
